@@ -1,3 +1,5 @@
 this is some test text
 maybe it's about fire!!!!!!!!!!!!!!!!!
-yes, fire!!!
+yes, fire
+
+this is another critical change
